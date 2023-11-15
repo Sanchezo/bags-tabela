@@ -1,0 +1,41 @@
+#tytulkontener{
+    text-align: center;
+    font-family: consolas;
+    float:none;
+    
+    display: inline-block;
+    margin:auto;
+    position: static;
+    left: auto;
+    
+}
+#head{
+    width: 100%;
+    display: inline-block;
+    
+}
+.logo{
+    
+    margin: auto;
+    height: 105px;
+    
+}
+#main{
+    text-align: center;
+}
+.kontenerlogo{
+    display: inline-block;
+    width: 130px;
+    height: 105px;
+}
+#powiat{
+    float: left;
+    margin-left: 75px;
+}
+#szkola{
+    float: right;
+    margin-right: 75px;
+}
+table{
+    margin-top: 100px;
+}
